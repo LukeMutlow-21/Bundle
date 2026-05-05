@@ -49,6 +49,16 @@ Build and run in Xcode (`⌘R`).
 
 ---
 
+## ⚠️ Unsigned App — Important
+
+Bundle is currently unsigned and not notarised by Apple. To open Bundle for the first time:
+
+1. Download the .Zip file
+2. Drag the Application into /Applications
+3. Open Bundle
+
+This is only required once. After, Bundle will open normally.
+
 ## Usage
 
 1. Launch Bundle
