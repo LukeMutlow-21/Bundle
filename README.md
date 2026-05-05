@@ -84,10 +84,4 @@ The `.pkg` file will be saved to your chosen destination, ready for deployment v
 
 ---
 
-## Contributing
-
-Pull requests are welcome. For significant changes, please open an issue first to discuss what you'd like to change.
-
----
-
 © 2026 Luke Mutlow. All rights reserved.
