@@ -1,4 +1,4 @@
-![Bundle Banner](https://raw.githubusercontent.com/LukeMutlow-21/Bundle/refs/heads/main/Bundle/BundleBanner.png)
+![Bundle](https://raw.githubusercontent.com/LukeMutlow-21/Bundle/refs/heads/main/Bundle/Bundle.png)
 
 # Bundle
 
