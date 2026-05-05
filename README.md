@@ -1,3 +1,5 @@
+![Bundle Banner](https://raw.githubusercontent.com/LukeMutlow-21/Bundle/refs/heads/main/Bundle/BundleBanner.png)
+
 # Bundle
 
 **Bundle** is a lightweight macOS utility for packaging `.app` bundles into `.pkg` installers — built for Mac admins and IT professionals who need a fast, no-fuss way to create packages for MDM deployment.
