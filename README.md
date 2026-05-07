@@ -71,17 +71,4 @@ The `.pkg` file will be saved to your chosen destination, ready for deployment v
 
 ---
 
-## Project Structure
-
-| File | Purpose |
-|---|---|
-| `BundleApp.swift` | App entry point and Settings window |
-| `BundleModel.swift` | Data loading, state management, and build execution |
-| `ContentView.swift` | Main UI layout |
-| `Packaging.swift` | Package data models, intent builder, and validation |
-| `TechnicalDetailsView.swift` | Package detail UI component |
-| `AppAppearance.swift` | Appearance preference enum |
-
----
-
 © 2026 Luke Mutlow. All rights reserved.
