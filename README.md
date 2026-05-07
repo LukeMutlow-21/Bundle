@@ -4,7 +4,7 @@
 
 **Bundle** is a lightweight macOS utility for packaging `.app` bundles into `.pkg` installers — built for Mac admins and IT professionals who need a fast, no-fuss way to create packages for MDM deployment.
 
-![macOS](https://img.shields.io/badge/macOS-13.0%2B-blue) ![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![macOS](https://img.shields.io/badge/macOS-13.0%2B-blue) ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
 ---
 
