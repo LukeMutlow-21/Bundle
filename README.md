@@ -20,7 +20,7 @@ Creating `.pkg` installers normally means dropping into Terminal and wrestling w
 
 - 📦 Packages any `.app` from `/Applications` into a `.pkg` installer
 - 🔍 Automatically reads the app's bundle identifier, version, and install location from its `Info.plist`
-- 🖥️ Native SwiftUI interface — no Electron, no dependencies
+- 🖥️ Native SwiftUI interface
 - 🌗 Light and dark mode support
 - ⌘↩ Keyboard shortcut to build
 
